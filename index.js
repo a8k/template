@@ -1,8 +1,7 @@
 module.exports = [
   {
-    name: "typescript",
+    name: "基于eslint校验的typescript项目",
     type: "typescript-eslint-starter",
-    description: "基于eslint校验的typescript项目",
     url: "hxfdarling/typescript-eslint-starter"
   }
 ];
